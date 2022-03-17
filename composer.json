@@ -2,6 +2,7 @@
     "name": "federico/pems",
     "description": "Federico Guerrero federico.gro.rdz@gmail.com",
     "type": "library",
+    "version": "1.0",
     "require": {
         "php": "^7.2.5"
     },
