@@ -1,0 +1,29 @@
+{
+    "name": "federico/pems",
+    "description": "Federico Guerrero federico.gro.rdz@gmail.com",
+    "type": "library",
+    "require": {
+        "php": "^7.2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Federico\\Pems\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Federico Guerrero",
+            "email": "federico.gro.rdz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
